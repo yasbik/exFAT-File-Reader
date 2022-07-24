@@ -1,6 +1,6 @@
 # exFAT File Reader
 
-This is a C program to read exFAT formatted files. An exFAT formatted volume can be used to test the file system reader.The program has three commands as follows:
+This is a program to read exFAT formatted files. An exFAT formatted volume can be used to test the file system reader.The program has three commands as follows:
 
 ### `info`
 
