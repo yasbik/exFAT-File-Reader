@@ -1,10 +1,3 @@
-/*
-COMP 3430 - Assignment 4
-Student Name:   Abu Yasin Sabik
-Student ID:     7871615
-Instructor:     Franklin Bristow
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
