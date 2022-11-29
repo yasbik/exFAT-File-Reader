@@ -21,12 +21,12 @@ Compile my program using the command `make`.
 
 Run my program as follows:
 
-    ./q1 <exFAT_image> <commands> <absolutepath (only for the 'get' command)>
+    ./main <exFAT_image> <commands> <absolutepath (only for the 'get' command)>
 
     For example:
-    ./q1 exFATimage.exfat info
-    ./q1 exFATimage.exfat list
-    ./q1 exFATimage.exfat get ./text/numbers/1.txt
+    ./main exFATimage.exfat info
+    ./main exFATimage.exfat list
+    ./main exFATimage.exfat get ./text/numbers/1.txt
 
 ---
 
